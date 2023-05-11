@@ -21,7 +21,7 @@ CREATE TABLE MASCOTA (
     raza_mas VARCHAR(100) NOT NULL,
     edad_mas VARCHAR(50) NOT NULL,
     peso_mas VARCHAR(50) NOT NULL,
-    indEliminado INT NOT NULL
+    ind_eliminado_mas INT NOT NULL
 );
 
 ALTER TABLE HISTORIAL_VACUNAS
